@@ -1,6 +1,6 @@
-# Team05-RISCV-CPU
+# RISCV 32I CPU
 
-_Written by Lolézio Viora Marquet and Sam Barber_
+_Written by  Sam Barber and Lolézio Viora Marquet_
 
 This branch contains a fully working Pipelined CPU with Hazard Handling with Data Memory Cache in SystemVerilog.
 
